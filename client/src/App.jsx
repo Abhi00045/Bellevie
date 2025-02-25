@@ -9,7 +9,7 @@ import {PlaceOrder} from '../Pages/PlaceOrder'
 import {Product} from '../Pages/Product'
 import {Contact} from '../Pages/Contact'
 import {About} from '../Pages/About'
-import {Navbar} from '../Components/Navbar'
+// import {Navbar} from '../Components/Navbar'
 
 
 function App() {
@@ -19,8 +19,7 @@ function App() {
     <>
       <div>
       {/* -----------------------------Routes & Their paths added------------------------- */}
-      <Navbar/>
-
+      {/* <Navbar/> */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path='/collection' element={<Collection/>}/>
