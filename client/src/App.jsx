@@ -1,4 +1,4 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 import { Routes, Route } from 'react-router-dom'
 import {Home} from '../Pages/Home'
 import {Collection} from '../Pages/Collection'
@@ -8,17 +8,17 @@ import {Orders} from '../Pages/Orders'
 import {PlaceOrder} from '../Pages/PlaceOrder'
 import {Product} from '../Pages/Product'
 import {Contact} from '../Pages/Contact'
-import {About} from '../Pages/About'
+// import {About} from '../Pages/About'
 
 
 function App() {
-  const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
 
   return (
     <>
+    <h1>hiii</h1>
       <div>
       {/* -----------------------------Routes & Their paths added------------------------- */}
-     <h1>Hii</h1>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path='/collection' element={<Collection/>}/>
