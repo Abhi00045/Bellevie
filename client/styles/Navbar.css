@@ -1,0 +1,11 @@
+#mainBar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    border: 2px solid rgb(0, 0, 0);
+}
+#lofgo{
+    width: 120px;
+}
+ 
