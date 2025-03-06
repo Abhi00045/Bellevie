@@ -31,7 +31,6 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/about" element={<About/> } />
           </Routes>
-          <h1>hiii</h1>
        </div>
     </>
   )
