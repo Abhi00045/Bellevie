@@ -20,7 +20,7 @@ function App() {
     <>
       <div>
       {/* -----------------------------Routes & Their paths added------------------------- */}
-      {/* <Navbar/> */}
+      <Navbar/>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path='/collection' element={<Collection/>}/>

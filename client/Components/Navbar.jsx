@@ -1,7 +1,6 @@
-import React from 'react'
 import '../styles/Navbar.css'
 import {assets} from '../assets/frontend_assets/assets'
-import { Link, NavLink } from 'react-router-dom'
+import {  NavLink } from 'react-router-dom'
 
 const Navbar = () => {
   return (

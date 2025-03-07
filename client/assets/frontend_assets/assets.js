@@ -76,7 +76,6 @@ import cross_icon from './cross_icon.png'
 import bellevie from './bellevie.jpeg'
 import jungkook from './jungkook.mp4'
 import jessica from './jessica.mp4'
-import indian_jersey from './indian_jersey.avif'
 
 export const assets = {
     logo,
