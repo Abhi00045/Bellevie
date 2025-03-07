@@ -1,6 +1,6 @@
 # Bellevie E-commerce Platform
 
-![Bellevie Logo](https://github.com/Abhi00045/Bellevie/blob/main/clients/assets/frontend-assets/bellevie.png)
+![Bellevie Logo](https://github.com/Abhi00045/Bellevie/blob/main/clients/assets/frontend_assets/bellevie.jpeg)
 
 ## Table of Contents
 - [Introduction](#introduction)
