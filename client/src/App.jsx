@@ -12,6 +12,7 @@ import About from '../Pages/About'
 import Navbar from '../Components/Navbar'
 
 
+
 function App() {
   // const [count, setCount] = useState(0)
 
@@ -19,7 +20,7 @@ function App() {
     <>
       <div>
       {/* -----------------------------Routes & Their paths added------------------------- */}
-      <Navbar/>
+      {/* <Navbar/> */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path='/collection' element={<Collection/>}/>
